@@ -1,3 +1,2 @@
-# data-science
-Data science assignments.
-Language: python 
+# Data science
+Language: Python 
