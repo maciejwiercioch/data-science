@@ -1,3 +1,3 @@
 ## Data science
-Language: Python 
+Language: Python<br> 
 Used Libraries: pandas, numpy, matplotlib
